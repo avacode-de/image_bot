@@ -4,7 +4,7 @@ This repository contains a Telegram bot that allows users to generate images bas
 
 ## Features
 
-*_Text-Based Image Generation:_ Users can send text prompts to the bot, which will return generated images based on the prompt.
+⋅⋅*_Text-Based Image Generation:_ Users can send text prompts to the bot, which will return generated images based on the prompt.
 
 *_Multiple Image Generation Methods:_
 ⋅⋅⋅*_Puppeteer Method:_ The bot launches a Puppeteer instance, navigates to the Craiyon (formerly DALL-E mini) website, and submits the prompt to generate images.
