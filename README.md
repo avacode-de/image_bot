@@ -67,3 +67,12 @@ const prompt = 'A fantasy landscape with mountains and rivers';
 generateImage(prompt)
     .then(imageUrl => console.log('Generated Image URL:', imageUrl))
     .catch(error => console.error('Error:', error));
+```
+### Troubleshooting
+
+- If the bot fails to generate images, ensure that the external services are accessible and the selectors in Puppeteer are up-to-date.
+- Check the console logs for any errors during the Puppeteer execution or API requests.
+
+### Contributing
+
+Contributions are welcome! Feel free to submit issues and pull requests to enhance the bot's functionality.
